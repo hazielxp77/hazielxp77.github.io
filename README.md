@@ -4,13 +4,16 @@
 executando pequenas funções, então eu fiz o upload dessa template com o designer totalmente modificado
 mas faltando a implementação das tecnologias das quais vou adicionar gradativamente...
 
-Essa é a lista de implementações que vou Adicionar posteriormente:
+Essa é a lista de primeiras implementações que vou Adicionar posteriormente:
 
-[ ] Conectar a um vídeo exterior a primeira página.
-[ ] Escolher uma tecnologia para criar a função blog.
-[ ] Ativar a API de mapa.
-[ ] Escolher um banco de dados para ativar a função de comentários
+*[ ] Conectar a um vídeo exterior a primeira página.
+*[ ] Escolher uma tecnologia para criar a função blog.
+*[ ] Ativar a API de mapa.
+*[ ] Escolher um banco de dados para ativar a função de comentários
 
 ## Quem tiver uma opinião ou dúvida sobre o que eu posso adicionar ou remover nesse site pode entrar em contato por esse e-mail:
 
 hazielxp77@gmail.com
+
+### Obrigado pela ajuda, apoio e colaboração de todos.
+### Vamos prosperar como profissionais e como humanos nos ajudando uns aos outros assim tornando o mundo melhor.
