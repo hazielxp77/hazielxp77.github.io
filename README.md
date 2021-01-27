@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Site para projeto de TCC
 
-You can use the [editor on GitHub](https://github.com/hazielxp77/hazielxp77.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+  Vendo muitos repósitórios no git, eu percebi que as pessoas enchem suas contas com vários projetos
+executando pequenas funções, então eu fiz o upload dessa template com o designer totalmente modificado
+mas faltando a implementação das tecnologias das quais vou adicionar gradativamente...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Essa é a lista de implementações que vou Adicionar posteriormente:
 
-### Markdown
+[ ] Conectar a um vídeo exterior a primeira página.
+[ ] Escolher uma tecnologia para criar a função blog.
+[ ] Ativar a API de mapa.
+[ ] Escolher um banco de dados para ativar a função de comentários
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Quem tiver uma opinião ou dúvida sobre o que eu posso adicionar ou remover nesse site pode entrar em contato por esse e-mail:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hazielxp77/hazielxp77.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+hazielxp77@gmail.com
